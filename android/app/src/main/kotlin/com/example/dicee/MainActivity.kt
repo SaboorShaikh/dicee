@@ -1,4 +1,4 @@
-package com.example.column_and_rows
+package com.example.dicee
 
 import io.flutter.embedding.android.FlutterActivity
 
